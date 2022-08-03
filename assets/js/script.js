@@ -1,3 +1,7 @@
+document-addEventListener("DOMContentLoaded", function() {
+    
+})
+
 function runGame() {
 
 }
@@ -33,3 +37,4 @@ function displayMultiplyQuestion() {
 function displayDividQuestion() {
     
 }
+
